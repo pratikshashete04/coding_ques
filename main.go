@@ -1,3 +1,5 @@
+// simple hello prog
+
 package main
 
 import "fmt"
